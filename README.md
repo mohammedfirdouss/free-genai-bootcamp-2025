@@ -1,1 +1,1 @@
-# free-genai-bootcamp-2025
+# WIP (Work In Progress)
